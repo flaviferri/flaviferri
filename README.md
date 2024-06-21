@@ -8,7 +8,7 @@
 
 💞️ I’m looking to collaborate on open-source projects and opportunities to expand my knowledge.
 
-📫 You can reach me via email at flaviferri90@gmail.com or connect with me on LinkedIn.
+📫 You can reach me on LinkedIn.
 
 😄 Pronouns: She/Her
 
