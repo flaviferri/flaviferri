@@ -1,3 +1,5 @@
+![github-header-image (1)](https://github.com/flaviferri/flaviferri/assets/163913487/b0827e2c-8cff-4538-89cb-a6fa80248940)
+
 👋 Hi, I’m @flaviferri
 
 👀 I’m interested in learning and mastering Full Stack Development.
