@@ -8,7 +8,7 @@
 
 💞️ I’m looking to collaborate on open-source projects and opportunities to expand my knowledge.
 
-📫 You can reach me on LinkedIn.
+📫 You can reach me on [LinkedIn.](https://www.linkedin.com/in/flavia-ferrigno/)
 
 😄 Pronouns: She/Her
 
