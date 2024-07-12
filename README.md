@@ -4,7 +4,7 @@
 
 👀 I’m interested in learning and mastering Full Stack Development.
 
-🌱 I’m currently learning HTML,CSS,JavaScript, React API's + API Rest so far.
+🌱 I’m currently learning HTML,CSS,JavaScript, React API's + API Rest and JAVA !!!
 
 💞️ I’m looking to collaborate on open-source projects and opportunities to expand my knowledge.
 
