@@ -2,9 +2,10 @@
 
 👋 Hi, I’m @flaviferri
 
-👀 I’m interested in learning and mastering Full Stack Development.
+👀 I’ve completed a bootcamp focused on full-stack development, and I'm particularly interested in mastering backend development.
 
-🌱 I’m currently learning HTML,CSS,JavaScript, React API's + API Rest and JAVA !!!
+🌱 I have learned HTML, CSS, JavaScript, React APIs, REST APIs, Java, including Object-Oriented Programming (OOP), Spring Boot, Spring Security with JWT, and OAuth2.
+☕ Coffee and Java team 
 
 💞️ I’m looking to collaborate on open-source projects and opportunities to expand my knowledge.
 
