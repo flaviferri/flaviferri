@@ -2,58 +2,48 @@
 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=flaviferri&theme=algolia" alt="flaviferri" /></p>
 🛠️ My Skills
-👉 Programming Languages & Technologies
+<br>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  &emsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-  </a> 
-  &emsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"> 
-  </a> 
-  &emsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"> 
-  </a> 
-  &emsp; 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"> 
-  </a> 
-  &emsp; 
-  <a href="https://spring.io/" target="_blank"> 
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white"> 
-  </a> 
-  &emsp; 
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white"> 
-  </a> 
-  &emsp; 
-  <a href="https://jwt.io/" target="_blank"> 
-    <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens"> 
-  </a> 
-  &emsp; 
-  <a href="https://oauth.net/2/" target="_blank"> 
-    <img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-%234EA94B.svg?style=flat&logo=oauth"> 
-  </a> 
-  &emsp; 
-  <a href="https://aws.amazon.com/" target="_blank"> 
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=%23F90"> 
-  </a>
-  &emsp; 
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white"> 
-  </a>
-  &emsp;
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white"> 
-  </a>
-  &emsp; 
-  <a href="https://visualstudio.microsoft.com/" target="_blank"> 
-    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=flat&logo=visual%20studio&logoColor=white"> 
-  </a>
-  &emsp; 
-  <a href="https://www.jetbrains.com/idea/" target="_blank"> 
-    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white"> 
-  </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a>
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+    </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/>
+    </a>
+    <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt" width="40" height="40"/>
+    </a>
+    <a href="https://oauth.net/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/oauth/oauth-icon.svg" alt="oauth" width="40" height="40"/>
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    </a>
 </p>
+<br>
+
+<hr width="36%" >
+
+
