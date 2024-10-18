@@ -3,4 +3,57 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=flaviferri&theme=algolia" alt="flaviferri" /></p>
 🛠️ My Skills
 👉 Programming Languages & Technologies
-<p align="left"> &emsp; <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> </a> &emsp; <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"> </a> &emsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"> </a> &emsp; <a href="https://reactjs.org/" target="_blank"> <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"> </a> &emsp; <a href="https://spring.io/" target="_blank"> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white"> </a> &emsp; <a href="https://www.java.com" target="_blank"> <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white"> </a> &emsp; <a href="https://jwt.io/" target="_blank"> <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens"> </a> &emsp; <a href="https://oauth.net/2/" target="_blank"> <img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-%234EA94B.svg?style=flat&logo=oauth"> </a> </p>
+<p align="left">
+  &emsp; 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+  </a> 
+  &emsp; 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"> 
+  </a> 
+  &emsp; 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"> 
+  </a> 
+  &emsp; 
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"> 
+  </a> 
+  &emsp; 
+  <a href="https://spring.io/" target="_blank"> 
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white"> 
+  </a> 
+  &emsp; 
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white"> 
+  </a> 
+  &emsp; 
+  <a href="https://jwt.io/" target="_blank"> 
+    <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens"> 
+  </a> 
+  &emsp; 
+  <a href="https://oauth.net/2/" target="_blank"> 
+    <img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-%234EA94B.svg?style=flat&logo=oauth"> 
+  </a> 
+  &emsp; 
+  <a href="https://aws.amazon.com/" target="_blank"> 
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=%23F90"> 
+  </a>
+  &emsp; 
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white"> 
+  </a>
+  &emsp;
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white"> 
+  </a>
+  &emsp; 
+  <a href="https://visualstudio.microsoft.com/" target="_blank"> 
+    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=flat&logo=visual%20studio&logoColor=white"> 
+  </a>
+  &emsp; 
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> 
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white"> 
+  </a>
+</p>
