@@ -35,9 +35,6 @@
     <a href="https://jwt.io/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt" width="40" height="40"/>
     </a>
-    <a href="https://oauth.net/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/oauth/oauth-icon.svg" alt="oauth" width="40" height="40"/>
-    </a>
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
     </a>
