@@ -2,9 +2,7 @@
 
 🌱 I’m on a mission to assemble a hyper-powered tech stack for scalable applications—one bug at a time.
 
-☁️ I’m into cloud computing—AWS is my playground and I'm currently trying not to break things while learning it!
-
-📝 I occasionally write about tech (and how to avoid burnout from too much code) on [Hashnode](https://1010nishant.hashnode.dev/). Spoiler: it's not all about programming.
+☁️ I’m all about cloud computing—AWS is where I’m playing, just trying to avoid accidentally launching a rocket into space while learning it!
 
  💬 Ask me about **AWS**, **React**, **React Native**, **Spring Boot**, **MongoDB**—I’ve probably got an answer or at least a really good excuse.
 
