@@ -8,7 +8,7 @@
 
  💬 Ask me about **AWS**, **React**, **React Native**, **Spring Boot**, **MongoDB**—I’ve probably got an answer or at least a really good excuse.
 
- 📫 Feel free to reach me at **nishantjangid6377@gmail.com**—I promise I won’t just spam you with memes (unless you ask).
+ 📫 Feel free to reach me at **flaviferri90@gmail.com**—I promise I won’t just spam you with memes (unless you ask).
 
 🏠 Let’s chat on Discord: [Flavia Ferrigno](https://discordapp.com/users/957722095381540874). I’m always down for a tech talk—or a quick rant about my last code mishap.
 
