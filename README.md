@@ -4,7 +4,7 @@
 
 ☁️ I’m all about cloud computing—AWS is where I’m playing, just trying to avoid accidentally launching a rocket into space while learning it!
 
- 💬 Ask me about **AWS**, **React**, **React Native**, **Spring Boot**, **MongoDB**—I’ve probably got an answer or at least a really good excuse.
+ 💬 Ask me about **AWS**, **React**, **React Native**, **Spring Boot**, **Postgres**—I’ve probably got an answer or at least a really good excuse.
 
  📫 Feel free to reach me at **flaviferri90@gmail.com**—I promise I won’t just spam you with memes (unless you ask).
 
