@@ -1,46 +1,65 @@
-<h1 align="center">Hi, I'm Flavia Ferrigno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Coffee+%26+Code+Lover;Backend+Enthusiast;Always+learning&center=true&width=500&height=50"> </a> </p> <hr/> <h4 align="center">I’m a Full Stack Developer with a passion for mastering backend technologies! I love coding with Java ☕, building REST APIs, and exploring the endless possibilities of Spring Boot and React. I'm always on the lookout for new challenges, collaborations, and ways to grow my skills.</h4> <p align="center"><img src="https://komarev.com/ghpvc/?username=flaviferri&label=Profile%20views&color=0e75b6&style=plastic" alt="flaviferri" /></p>
-🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=flaviferri&theme=algolia" alt="flaviferri" /></p>
-🛠️ My Skills
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/>
-    </a>
-    <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt" width="40" height="40"/>
-    </a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
+<h1 align="center">Hi, I'm Flavia Ferrigno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Coffee+%26+Code+Lover;Backend+Enthusiast;Always+learning&center=true&width=500&height=50"> </a> </p> <hr/> 
+
+🌱 I’m on a mission to assemble a hyper-powered tech stack for scalable applications—one bug at a time.
+
+☁️ I’m into cloud computing—AWS is my playground and I'm currently trying not to break things while learning it!
+
+📝 I occasionally write about tech (and how to avoid burnout from too much code) on [Hashnode](https://1010nishant.hashnode.dev/). Spoiler: it's not all about programming.
+
+ 💬 Ask me about **AWS**, **React**, **React Native**, **Spring Boot**, **MongoDB**—I’ve probably got an answer or at least a really good excuse.
+
+ 📫 Feel free to reach me at **nishantjangid6377@gmail.com**—I promise I won’t just spam you with memes (unless you ask).
+
+🏠 Let’s chat on Discord: [Flavia Ferrigno](https://discordapp.com/users/957722095381540874). I’m always down for a tech talk—or a quick rant about my last code mishap.
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=flaviferri&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Flavia's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=flaviferri&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=flaviferri&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
 </p>
-<br>
 
-<hr width="36%" >
 
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/flavia-ferrigno/" target="blank"><img align="center" src="https://www.linkedin.com/in/flavia-ferrigno/" alt="linkedin" height="50" width="50" /></a>
+
+</p>
 
