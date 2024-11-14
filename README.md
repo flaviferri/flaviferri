@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Flavia Ferrigno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Coffee+%26+Code+Lover;Backend+Enthusiast;Always+learning&center=true&width=500&height=50"> </a> </p> <hr/> 
+<h1 align="center">Hi, I'm Flavia Ferrigno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> <p align="center"> <a href=""> <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Coffee+%26+Code+Lover;Backend+Enthusiast;Always+learning&center=true&width=500&height=50"> </a> </p> <hr/> 
 
 🌱 I’m on a mission to assemble a hyper-powered tech stack for scalable applications—one bug at a time.
 
